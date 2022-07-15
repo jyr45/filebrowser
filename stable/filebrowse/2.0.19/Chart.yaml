@@ -1,0 +1,27 @@
+apiVersion: 
+appVersion: "2.22.3"
+dependencies:
+- name: common
+  repository: https://library-charts.truecharts.org
+  version: 10.4.4
+deprecated: false
+description: Filebrowser provides a file managing interface within a specified directory
+home: https://github.com/jyr45/apps-master/tree/main/charts/stable/filebrowser
+icon: https://truecharts.org/img/chart-icons/filebrowser.png
+keywords:
+- filebrowser
+kubeVersion: '>=1.16.0-0'
+maintainers:
+- email: info@truecharts.org
+  name: JHJO
+  url: https://truecharts.org
+name: filebrowser2
+sources:
+
+type: application
+version: 2.0.19
+annotations:
+  truecharts.org/catagories: |
+    - media
+  truecharts.org/SCALE-support: "true"
+  truecharts.org/grade: U
