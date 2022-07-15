@@ -6,7 +6,7 @@ dependencies:
   version: 10.4.4
 deprecated: false
 description: Filebrowser provides a file managing interface within a specified directory
-home: https://github.com/truecharts/apps/tree/master/charts/stable/filebrowser
+home: https://github.com/jyr45/apps-master/tree/main/charts/stable/filebrowser
 icon: https://truecharts.org/img/chart-icons/filebrowser.png
 keywords:
 - filebrowser
